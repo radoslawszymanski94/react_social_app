@@ -29,5 +29,5 @@ BACKEND
 - Mongoose
 - Dotenv
 
-Aplikacja została zdeployowana z uzyciem Netlify i widoczna jest pod adresem: https://social-app-peoject.netlify.app/.
+Aplikacja została zdeployowana z uzyciem Netlify i widoczna jest pod adresem: https://social-app-project.netlify.app/.
 
